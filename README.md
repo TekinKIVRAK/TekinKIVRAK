@@ -93,17 +93,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Tekin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TekinKIVRAK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0e14&title_color=00d4aa&icon_color=00d4aa&text_color=e2e8f0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TekinKIVRAK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0e14&title_color=00d4aa&text_color=e2e8f0)
-
-</div>
-
----
 
 <div align="center">
 
