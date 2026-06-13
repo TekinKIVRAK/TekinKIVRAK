@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-TekinKIVRAK.github.io-00d4aa?style=for-the-badge&logoColor=white)](https://TekinKIVRAK.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tekin--kvrk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tekin-kvrk)
-[![Blog](https://img.shields.io/badge/Blog-MindTrellis-f59e0b?style=for-the-badge&logoColor=white)](https://mindtrellis.com)
+[![Blog](https://img.shields.io/badge/Blog-MindTrellis-f59e0b?style=for-the-badge&logoColor=white)](https://www.mindtrellis.com)
 [![Email](https://img.shields.io/badge/Email-tknkvrk@gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tknkvrk@gmail.com)
 
 </div>
@@ -42,7 +42,9 @@
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=openai&logoColor=white)
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ---
@@ -57,26 +59,47 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Flagship — MindTrellis Suite
 
-### 🤖 [TekinHair AI](https://TekinKIVRAK.github.io)
-> AI chatbot SaaS for hair transplant clinics — 24/7 multilingual patient support
+### 🤖 [MindTrellis CRM](https://app.mindtrellis.com/)
+> Vertical SaaS CRM for hair transplant clinics — lead capture, pipeline & multilingual patient management, with built-in revenue analytics that surface lost leads and conversion patterns across WhatsApp, Calendar & email
 
-`Next.js` `Azure OpenAI` `Cosmos DB`
-
----
-
-### 📊 Clinic Revenue Intelligence `WIP`
-> AI analytics platform for clinics — connects WhatsApp, Google Calendar & email to surface revenue leaks, lost leads, and conversion patterns in real time
-
-`Next.js` `Azure OpenAI` `n8n` `Analytics`
+`Next.js 14` `Supabase` `PostgreSQL`
 
 ---
 
-### 🌱 [MindTrellis](https://mindtrellis.com)
-> Personal dev blog & AI automation services platform for SMBs
+### 💬 [MindTrellis Chatbot](https://app.mindtrellis.com/)
+> Embeddable 24/7 AI assistant for clinic websites — answers patients in 5 languages and runs GPT-4o photo analysis for Norwood scale, graft count & cost estimates
 
-`n8n` `AI Agents` `SEO`
+`Next.js` `GPT-4o` `AI Chatbot`
+
+---
+
+### 🧠 MindTrellis Business OS
+> Modular AI operating system that automates marketing, sales & patient care for clinics with Gemini-powered agents
+
+`Next.js` `Gemini 2.5` `AI Agents`
+
+---
+
+### 🌱 [MindTrellis Blog](https://www.mindtrellis.com/)
+> Dev blog & content hub for the MindTrellis ecosystem — SEO-focused articles on AI automation for SMBs
+
+`Next.js` `SEO` `Blog`
+
+---
+
+## 🧩 Other Builds
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🥐 [Saliha's Bakery](https://saliha-s-bakery.vercel.app) | Home-bakery e-commerce with a 3D cake customizer, live baking calendar & dietary filters | `Next.js` `3D` `E-commerce` |
+| 🎯 ShootHub | Community platform for shooting-sports fans — range finder, firearms database & reviews | `Next.js 14` `TypeScript` `Tailwind` |
+| 🌟 Gather | AI-native social discovery app helping expats & students find events and people in a new city | `Next.js` `AI` `Social` |
+| ✍️ Motivation Letter Writer AI | Generates tailored motivation letters from your resume & a job posting in 3 tones — web app + WordPress plugin | `Claude AI` `Node.js` `WordPress` |
+| 🔗 LinkedIn Analyzer AI | Scores LinkedIn profiles across 7 categories with prioritized, actionable optimization tips | `AI` `Node.js` `Analysis` |
+| 📄 Resume Optimizer AI | Analyzes resumes for ATS compatibility and suggests concrete improvements, with WordPress embed | `Claude AI` `ATS` `Node.js` |
+| 💇 Hair Intelligence `WIP` | AI-driven hair analysis tool for clinics | `Next.js` `AI` |
 
 ---
 
